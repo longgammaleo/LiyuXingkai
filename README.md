@@ -42,18 +42,6 @@ Current version: **v0.100** (development/preview release)
 
 ---
 
-## 适用场景 · Recommended Use Cases
-
-| 场景 | 说明 |
-|---|---|
-| 品牌标识 · Branding | 茶饮、餐饮、文创、旅游等具有东方美学调性的品牌 |
-| 海报设计 · Posters | 文化活动、节气、景区、展览等竖排或大标题排版 |
-| 包装设计 · Packaging | 奶茶杯、餐盒、礼品盒等需要古典气质的包装文字 |
-| 匾额招牌 · Signage | 传统风格餐厅、茶馆、民宿、园林景区门头 |
-| 正文排版 · Body Text | 适合大号正文（建议 14pt 以上），不建议用于小字注释 |
-
----
-
 ## 安装与使用 · Installation
 
 ### 下载 · Download
