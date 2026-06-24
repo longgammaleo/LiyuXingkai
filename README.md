@@ -86,9 +86,9 @@ This font is released under the **SIL Open Font License 1.1**. It is free for bo
 
 ## 致谢 · Acknowledgements
 
-- **Yuji Kataoka（片岡佑之）** — [Yuji Syuku](https://github.com/Kinutafontfactory/Yuji) 原始毛笔字形 / original brush glyphs
-- **LXGW** — [LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 简体汉字字形补充 / Simplified Chinese glyph supplement
-- **Yuchen Tian** — [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) 部分汉字 AI 字形生成工具 / AI-assisted glyph synthesis for selected characters
+- **Yuji Kataoka（片岡佑之）** — [Yuji Syuku](https://github.com/Kinutafontfactory/Yuji) 原始毛笔字形
+- **LXGW** — [LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 提供拉丁字母、数字以及标点符号等
+- **Yuchen Tian** — [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) 部分汉字由 zi2zi-JiT 生成
 
 ### zi2zi-JiT Citation
 
