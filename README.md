@@ -29,9 +29,9 @@
 
 | 来源 | 作者 | 授权 | 用途 |
 |---|---|---|---|
-| [Yuji Syuku](https://github.com/Kinutafontfactory/Yuji) | 片岡佑之（Yuji Kataoka） | SIL OFL 1.1 | 原始毛笔楷书字形基础 |
-| [LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) | LXGW | SIL OFL 1.1 | 简体汉字字形补充 |
-| [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) | Yuchen Tian | MIT（字体产物需注明出处） | 部分汉字由 AI 字形生成工具辅助生成 |
+| [Yuji Syuku](https://github.com/Kinutafontfactory/Yuji) | 片岡佑之（Yuji Kataoka） | SIL OFL 1.1 | 提供原始开源字体 |
+| [LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) | LXGW | SIL OFL 1.1 | 补充拉丁字母、数字、标点符号等内容 |
+| [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) | Yuchen Tian | MIT（字体产物需注明出处） | 部分汉字由 zi2zi-JiT 生成 |
 
 
 > **关于 zi2zi-JiT 的授权要求**：根据 zi2zi-JiT 的许可条款，当分发的字体产品中使用了超过 200 个由该工具生成的字符时，须注明出处。本字体符合此条件，已在致谢中列出。
