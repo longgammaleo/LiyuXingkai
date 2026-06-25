@@ -3,6 +3,8 @@
 ---
 
 ## 简介 · Introduction
+<img width="1536" height="777" alt="漓雨行楷演示图" src="https://github.com/user-attachments/assets/f4cc2e93-4b02-4ef0-ad2e-c7261dfd1c35" />
+
 
 **漓雨行楷**（Liyu Xingkai）是一款以日本开源毛笔字体「佑字【肅】」为基础开发的简体中文行楷字体。字体以广西漓江的雨为名，融合了传统楷书的端正结构与行书的自然顿挫，兼具古典气质与现代排版的适用性。
 
