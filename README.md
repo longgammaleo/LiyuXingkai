@@ -1,6 +1,6 @@
 # 漓雨手书 · Liyu Shoushu
 
-> 一款基于「佑字【肅】」的开源中文字体
+> 一款基于「佑字【肅】」为基础开发的开源中文字体
 
 <img width="1536" height="725" alt="漓雨手书演示" src="https://github.com/user-attachments/assets/06fc1d09-f17a-4384-b995-e24c3b195bd7" />
 
