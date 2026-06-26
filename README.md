@@ -1,26 +1,17 @@
-# 漓雨行楷 · Liyu Xingkai
+# 漓雨手书 · Liyu Shoushu
 
----
+> 一款基于「佑字【肅】」的开源中文字体
 
-## 简介 · Introduction
-<img width="1536" height="777" alt="漓雨行楷演示图" src="https://github.com/user-attachments/assets/f4cc2e93-4b02-4ef0-ad2e-c7261dfd1c35" />
+<img width="1536" height="725" alt="漓雨手书演示" src="https://github.com/user-attachments/assets/06fc1d09-f17a-4384-b995-e24c3b195bd7" />
 
 
-**漓雨行楷**（Liyu Xingkai）是一款以日本开源毛笔字体「佑字【肅】」为基础开发的简体中文行楷字体。字体以广西漓江的雨为名，融合了传统楷书的端正结构与行书的自然顿挫，兼具古典气质与现代排版的适用性。
+## 简介
 
-**Liyu Xingkai** is a Simplified Chinese Xingkai typeface developed upon the Japanese open-source brush font *Yuji "Syuku"*. Named after the rain over the Li River in Guangxi, it blends the structural clarity of Kaishu with the natural rhythm of Xingshu, suited to both classical aesthetics and contemporary typographic use.
+漓雨手书是一款**毛笔风格**的中文字体。其底层为楷书结构，呈现自然的手写质感。
 
----
+> 命名说明：本字体原名「漓雨行楷」。但它并非书法意义上的「行（行书）」，故更名为「漓雨手书」。
 
-## 字体特点 · Features
-
-- **字重**：目前提供 Regular 一个字重。
-- **版本**：v0.101
-- **格式**：TTF（TrueType，glyf 轮廓）。
-
----
-
-## 设计说明 · Design Notes
+支持 **简体中文、繁体中文、日文假名、拉丁字符**，并提供完整的竖排标点替换。
 
 ### 来源与改造 · Origin & Modifications
 
@@ -37,9 +28,9 @@
 
 ### 字体版本 · Version
 
-当前版本：**v0.101**（开发测试版）
+当前版本：**v0.102**（开发测试版）
 
-Current version: **v0.101** (development release)
+Current version: **v0.102** (development release)
 
 ---
 
@@ -55,8 +46,8 @@ Visit the [Releases](../../releases) page of this repository to download the lat
 
 ## 已知问题 · Known Issues
 
-- **当前版本为 v0.101 开发预览版**，部分字形结构与笔画仍在持续优化中，欢迎通过 Issues 反馈。
-- **不建议用于 12pt 以下小字**：漓雨行楷的细节在极小字号下可能损失，建议正文最小 12pt，标题建议 18pt 以上。
+- **当前版本为 v0.102 开发预览版**，部分字形结构与笔画仍在持续优化中，欢迎通过 Issues 反馈。
+- **不建议用于 12pt 以下小字**：漓雨手书的细节在极小字号下可能损失，建议正文最小 12pt，标题建议 18pt 以上。
 - **Extension A / B 汉字覆盖有限**：生僻字（CJK 扩展区 A/B）仅收录少量，如有特殊需求请通过 Issues 提交。
 
 
