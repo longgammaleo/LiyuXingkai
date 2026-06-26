@@ -14,9 +14,8 @@
 
 ## 字体特点 · Features
 
-- **字符覆盖**：收录 **16,058** 个 CJK 统一汉字（总字符数约 17,721），覆盖 GB/T 2312 及 GB 18030 常用字集，并包含完整的平假名与片假名。
 - **字重**：目前提供 Regular 一个字重。
-- **版本**：v0.100
+- **版本**：v0.101
 - **格式**：TTF（TrueType，glyf 轮廓）。
 
 ---
@@ -38,9 +37,9 @@
 
 ### 字体版本 · Version
 
-当前版本：**v0.100**（开发测试版）
+当前版本：**v0.101**（开发测试版）
 
-Current version: **v0.100** (development/preview release)
+Current version: **v0.101** (development release)
 
 ---
 
@@ -56,7 +55,7 @@ Visit the [Releases](../../releases) page of this repository to download the lat
 
 ## 已知问题 · Known Issues
 
-- **当前版本为 v0.100 开发预览版**，部分字形结构与笔画仍在持续优化中，欢迎通过 Issues 反馈。
+- **当前版本为 v0.101 开发预览版**，部分字形结构与笔画仍在持续优化中，欢迎通过 Issues 反馈。
 - **不建议用于 12pt 以下小字**：漓雨行楷的细节在极小字号下可能损失，建议正文最小 12pt，标题建议 18pt 以上。
 - **Extension A / B 汉字覆盖有限**：生僻字（CJK 扩展区 A/B）仅收录少量，如有特殊需求请通过 Issues 提交。
 
