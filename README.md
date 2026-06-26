@@ -30,7 +30,7 @@
 | 来源 | 作者 | 授权 | 用途 |
 |---|---|---|---|
 | [Yuji Syuku](https://github.com/Kinutafontfactory/Yuji) | 片岡佑之（Yuji Kataoka） | SIL OFL 1.1 | 提供原始开源字体 |
-| [LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) | LXGW | SIL OFL 1.1 | 补充拉丁字母、数字、标点符号等内容 |
+| [LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) | LXGW | SIL OFL 1.1 | 补充标点符号、特殊符号等内容 |
 | [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) | Yuchen Tian | MIT（字体产物需注明出处） | 部分汉字由 zi2zi-JiT 生成 |
 
 
@@ -77,7 +77,7 @@ This font is released under the **SIL Open Font License 1.1**. It is free for bo
 ## 致谢 · Acknowledgements
 
 - **Yuji Kataoka（片岡佑之）** — [Yuji Syuku](https://github.com/Kinutafontfactory/Yuji) 原始毛笔字形
-- **LXGW** — [LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 提供拉丁字母、数字以及标点符号等
+- **LXGW** — [LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 提供标点符号、特殊符号等内容
 - **Yuchen Tian** — [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) 部分汉字由 zi2zi-JiT 生成
 
 ### zi2zi-JiT Citation
